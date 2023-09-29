@@ -1,10 +1,5 @@
 # 基于SSM的学生信息管理系统（教务选课系统）
 
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**学生** ，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -79,15 +74,11 @@
 
 ![管理员-班级管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211061511509.jpg)
 
-## 5、视频演示
+### 获取方式&视频演示
 
-[点击播放视频，视频位于文章最后](输入链接)
+下方扫一下，回复关键词：学生
 
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ： **学生**，获取完整版源码
-
-
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
 
 ![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
